@@ -2,7 +2,7 @@
 
 A lightweight Linux GUI application for visualizing disk usage across your filesystem. Built with Python and PyQt6, it lets you browse any directory tree, see how much space each folder occupies, and understand what percentage of its host partition it represents — all without leaving a single window.
 
-
+<img width="1090" height="778" alt="lintree" src="https://github.com/user-attachments/assets/eb664a2b-7195-4de0-b2d2-4ddc158ae636" />
 
 ---
 
