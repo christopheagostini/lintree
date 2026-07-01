@@ -79,11 +79,11 @@ sudo apt install python3-pyqt6
 
 ```bash
 # Start from the filesystem root
-python3 lintree..py
+python3 lintree.py
 
 # Start from a specific directory
-python3 lintree..py /home
-python3 lintree..py /var
+python3 lintree.py /home
+python3 lintree.py /var
 ```
 
 ### Navigation
